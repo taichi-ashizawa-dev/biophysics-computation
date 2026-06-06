@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Research Data Exclusion ---
+*.npy
+*.tiff
+*.tif
+*.mp4
+*.avi
